@@ -4,9 +4,13 @@ body{
 .div-video{
     background-color: #24151b;
     text-align: center;
-    
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
-.wave{
+nav{
+    font-size: 20px;
+}
+/*.wave{
     width: 100%;
     bottom: 29vh;
 }
@@ -19,7 +23,25 @@ body{
     flex-direction: column;
     color:#ffffffe5;
     font-size:60px;
-}
+}*/
 li a:hover{
     background-color:#5f1a37;
+}
+.dropdown-menu{
+    background-color: #24151b;
+}
+.dropdown-menu li a:hover{
+    background-color:#5f1a37;
+}
+.slide img{
+    height: 65vh;
+    
+}
+.input-group{
+    width: 50%;
+}
+.container{
+    color: black;
+    background-color:#5f1a37 ;
+    
 }
