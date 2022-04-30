@@ -39,6 +39,23 @@ nav{
 }
 .input-group{
     width: 50%;
+    padding: 10px;
+}
+.input-group span{
+    background-color:#5f1a37;
+    color: white;
+}
+.input-group label{
+    background-color:#5f1a37;
+    color: white;
+}
+.btn{
+    background-color:#5f1a37;
+    color: white;
+}
+.btn:hover{
+    background-color:white;
+    color: black;
 }
 .container{
     color: rgb(255, 255, 255);
