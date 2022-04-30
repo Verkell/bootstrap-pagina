@@ -45,3 +45,11 @@ li a:hover{
     background-color:#5f1a37 ;
     
 }
+.table{
+    color: white;
+    width: 50%;
+    margin: auto;
+}
+.table img{
+    width: 150px;
+    }
