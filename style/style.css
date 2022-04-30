@@ -28,7 +28,7 @@ li a:hover{
     background-color:#5f1a37;
 }
 .dropdown-menu{
-    background-color: #24151b;
+    background-color: #5f1a37;
 }
 .dropdown-menu li a:hover{
     background-color:#5f1a37;
@@ -41,7 +41,7 @@ li a:hover{
     width: 50%;
 }
 .container{
-    color: black;
+    color: rgb(255, 255, 255);
     background-color:#5f1a37 ;
     
 }
