@@ -24,7 +24,7 @@ nav{
     color:#ffffffe5;
     font-size:60px;
 }*/
-li a:hover{
+.dropdown-menu li a:hover{
     background-color:#5f1a37;
 }
 .dropdown-menu{
@@ -53,3 +53,6 @@ li a:hover{
 .table img{
     width: 150px;
     }
+.menu-lateral{
+    width: 20%;
+}
